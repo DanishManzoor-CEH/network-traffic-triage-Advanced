@@ -1,0 +1,4 @@
+streamlit==1.65.0
+pandas==3.0.6
+groq==1.7.0
+pytest==8.4.2
