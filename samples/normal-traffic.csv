@@ -1,0 +1,26 @@
+No.,Time,Source,Destination,Protocol,Length,Info,TCP Flags
+1,0.000001,192.168.1.10,192.168.1.1,DNS,70,Standard DNS query,
+2,0.000002,192.168.1.11,192.168.1.1,UDP,80,Standard application exchange,
+3,0.000003,192.168.1.10,203.0.113.10,TLS,90,Standard application exchange,
+4,0.000004,192.168.1.11,192.168.1.1,TCP,100,Dst Port: 443,ACK
+5,0.000005,192.168.1.10,192.168.1.1,DNS,60,Standard DNS query,
+6,0.000006,192.168.1.11,203.0.113.10,UDP,70,Standard application exchange,
+7,0.000007,192.168.1.10,192.168.1.1,TLS,80,Standard application exchange,
+8,0.000008,192.168.1.11,192.168.1.1,TCP,90,Dst Port: 443,ACK
+9,0.000009,192.168.1.10,203.0.113.10,DNS,100,Standard DNS query,
+10,0.000010,192.168.1.11,192.168.1.1,UDP,60,Standard application exchange,
+11,0.000011,192.168.1.10,192.168.1.1,TLS,70,Standard application exchange,
+12,0.000012,192.168.1.11,203.0.113.10,TCP,80,Dst Port: 443,ACK
+13,0.000013,192.168.1.10,192.168.1.1,DNS,90,Standard DNS query,
+14,0.000014,192.168.1.11,192.168.1.1,UDP,100,Standard application exchange,
+15,0.000015,192.168.1.10,203.0.113.10,TLS,60,Standard application exchange,
+16,0.000016,192.168.1.11,192.168.1.1,TCP,70,Dst Port: 443,ACK
+17,0.000017,192.168.1.10,192.168.1.1,DNS,80,Standard DNS query,
+18,0.000018,192.168.1.11,203.0.113.10,UDP,90,Standard application exchange,
+19,0.000019,192.168.1.10,192.168.1.1,TLS,100,Standard application exchange,
+20,0.000020,192.168.1.11,192.168.1.1,TCP,60,Dst Port: 443,ACK
+21,0.000021,192.168.1.10,203.0.113.10,DNS,70,Standard DNS query,
+22,0.000022,192.168.1.11,192.168.1.1,UDP,80,Standard application exchange,
+23,0.000023,192.168.1.10,192.168.1.1,TLS,90,Standard application exchange,
+24,0.000024,192.168.1.11,203.0.113.10,TCP,100,Dst Port: 443,ACK
+25,0.000025,192.168.1.10,192.168.1.1,DNS,60,Standard DNS query,

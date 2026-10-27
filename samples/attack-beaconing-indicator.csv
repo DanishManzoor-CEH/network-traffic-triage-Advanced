@@ -1,0 +1,9 @@
+No.,Time,Source,Destination,Protocol,Length,Info,TCP Flags,Source Port,Destination Port,Domain
+1,0,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+2,60,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+3,120,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+4,180,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+5,240,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+6,300,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+7,360,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
+8,420,192.168.1.88,1.1.1.1,TLS,400,Application Data,,50000,443,
